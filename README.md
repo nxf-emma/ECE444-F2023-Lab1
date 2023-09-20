@@ -11,3 +11,6 @@ Exercise 2-1 Hello World \
 Exercise 2-2 Hello <name> for dynamic argument \
 <img width="484" alt="2 2" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/88a80f7d-e9ea-4bad-9f76-465b77325f7e">
 
+## Activity 3: 
+<img width="565" alt="3" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/d744cdf6-75b4-4449-9e2c-74080bb7b366">
+
