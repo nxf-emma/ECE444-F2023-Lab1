@@ -15,5 +15,14 @@ Update title of webpage running locally
 After entering email
 <img width="1192" alt="3 2" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/11a0d577-3fb9-4dd9-b2d4-0b23143683a4">
 
+## Activity 4
+Screenshot of log message after running docker ps -a
+<img width="1228" alt="4 1" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/06835b98-a1fe-4d3b-9201-1e70cd55fe14">
+Application running on http://localhost:3000
+<img width="1048" alt="4 2" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/1e256b0c-d2f1-4355-8da9-bb42c51ecf2e">
+After entering email
+<img width="1043" alt="4 3" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/22011054-f956-463c-887e-dd286a178ae6">
+
+
 
 
