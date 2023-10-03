@@ -12,5 +12,8 @@ Installed docker \
 ## Activity 3
 Update title of webpage running locally
 <img width="1197" alt="3 1" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/45089889-199c-4463-b32d-8b401c7fc880">
+After entering email
+<img width="1192" alt="3 2" src="https://github.com/nxf-emma/ECE444-F2023-Lab1/assets/84111551/11a0d577-3fb9-4dd9-b2d4-0b23143683a4">
+
 
 
